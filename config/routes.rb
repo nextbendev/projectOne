@@ -7,4 +7,8 @@ Rails.application.routes.draw do
   get '/pages/console', to: 'pages#console'
   get '/pages/profile', to: 'pages#profile'
   get '/pages/message', to: 'pages#message'
+
+
+
+
 end
